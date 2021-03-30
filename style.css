@@ -1,0 +1,59 @@
+.header {
+    margin:0px;
+    background:#f0e0d6;
+    padding:0px;
+    border: 2px solid #d9bfb7;
+    width: 100%;
+    padding-left: 0px;
+}
+h1 {
+    margin:20px;
+    font-size: 35px;
+}
+.infoBox {
+    background:#ea8;
+    border:1px solid #800;
+    padding:0 5px;
+}
+body {
+    color: maroon;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 10pt;
+    padding:0px;
+    margin:0px;
+    background: #ffe;
+}
+.postName {
+    color: #117743;
+    font-weight: 700;
+}
+.reply {
+    margin:8px;
+    padding:5px;
+    background:#f0e0d6;
+    border: 2px solid #d9bfb7;
+    width: 600px;
+}
+#postBox {
+    margin:8px;
+    background:#f0e0d6;
+    padding:5px;
+    border: 2px solid #d9bfb7;
+    width: 600px;
+}
+td:first-child {
+    background-color: #ea8;
+    color: #800;
+    font-weight: 700;
+    border: 1px solid #800;
+    padding: 0 5px;
+    font-size: 10pt;
+}
+textarea {
+    width:320px;
+    height:100;
+    resize:none;
+}
+img {
+    max-width: 400px;
+}
